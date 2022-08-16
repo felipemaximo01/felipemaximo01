@@ -1,5 +1,7 @@
 ### Olá! Eu sou o Felipe Maximo 🧑‍💻
 
+Estudante de desenvolvimento de software multiplaforma pela Fatec Diadema, apaixonado por tecnologia e aprender.
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipemaximo01&show_icons=true&theme=dracula)
 
@@ -14,8 +16,6 @@
   <img alingn="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img alingn="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </div><br/>
-
-Estudante de desenvolvimento de software multiplaforma pela Fatec Diadema, apaixonado por tecnologia e aprender.
 
 ### Contato:
 felipecontato2001@hotmail.com<br>
