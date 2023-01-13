@@ -3,10 +3,6 @@
 Estudante de desenvolvimento de software multiplaforma pela Fatec Diadema, apaixonado por tecnologia e aprender.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipemaximo01&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipemaximo01)](https://github.com/felipemaximo01/github-readme-stats)
-
 ## Tecnologias que tenho conhecimentos
 
 <div style="display: inline_block"><br/>
