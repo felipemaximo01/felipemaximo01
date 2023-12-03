@@ -6,11 +6,11 @@ Estudante de Desenvolvimento de software multiplataforma na Fatec Diadema, forma
 
 ##
 
-<div>
-    <a href="https://github.com/felipemaximo01">
-    <img src="https://github-readme-stats.vercel.app/api?username=felipemaximo01&show_icons=true&theme=dracula" style="margin: 1%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemaximo01&layout=compact&theme=dracula" style="margin: 1%"/>
-</div>
+
+| [![GitHubStats](https://github-readme-stats.vercel.app/api?username=felipemaximo01&show_icons=true&theme=dracula)](https://github.com/felipemaximo01) | [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipemaximo01&layout=compact&theme=dracula)](https://github.com/felipemaximo01) |
+| ----------- | ----------- |
+
+
 
 ## Ferramentas e tecnologia que tenho conhecimento:
 <div>
